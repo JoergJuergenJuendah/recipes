@@ -5,4 +5,4 @@
 * lime	  ($2)
 * salt	  ($1)	
 ## Instructions
-* peel the avocado
+*clean the fruit and  peel the avocado
